@@ -45,7 +45,8 @@ npm install
 # Install Dependencies
 
 Step 1: Start the Server
-node server.js
+
+by writing node server.js in your terminal
 
 
 Server will run at: http://localhost:3000
