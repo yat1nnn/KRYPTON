@@ -30,16 +30,21 @@ When a user enters the correct password, they can access the chat interface. All
 
 ## Project Structure
 
-project-root/
+project-root
+
 │
-│ └── index.html
-│
+
+│── index.html
+
 ├── server.js
+
 ├── package.json
+
 └── README.md
 
 # Install Dependencies
 npm init -y
+
 npm install express socket.io body-parser
 
 # How to start server
