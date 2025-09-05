@@ -32,7 +32,6 @@ When a user enters the correct password, they can access the chat interface. All
 
 project-root/
 │
-├── public/
 │ └── index.html
 │
 ├── server.js
@@ -40,9 +39,10 @@ project-root/
 └── README.md
 
 # Install Dependencies
-npm install
+npm init -y
+npm install express socket.io body-parser
 
-# Install Dependencies
+# How to start server
 
 Step 1: Start the Server
 
